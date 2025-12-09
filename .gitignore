@@ -1,0 +1,6 @@
+Detect Lung Cancer using patient diagnosis data.pdf
+dataset_med.csv
+feature_names.pkl
+label_encoders.pkl
+lung_cancer_model.pkl
+scaler.pkl
