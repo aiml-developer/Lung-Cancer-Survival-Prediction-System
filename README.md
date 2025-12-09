@@ -109,6 +109,8 @@ The app will open in your default browser at `http://localhost:8501`.
   - **Risk Factor Chart**: Visualizes high-impact factors like Stage IV cancer or Smoking history.
   - **Key Factors**: Pie chart highlighting which features contributed most to the prediction.
 
+<video src="https://github.com/user-attachments/assets/a46d5360-c2f5-4682-8999-d829852d5af2" controls width="700"></video>
+
 ## 📈 Results
 The Random Forest model is evaluated using Accuracy, Precision, Recall, and F1-Score.
 - **Target Accuracy**: ~90%+ (Dependent on dataset quality)
